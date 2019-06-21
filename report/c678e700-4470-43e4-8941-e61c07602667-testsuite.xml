@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560738777794" stop="1560738832544">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1560738777794" status="passed" stop="1560738797174">
+      <name>.Users.Yoson.Desktop.搜索案例.scripts.test_search.TestSearch.test_search[xiaoming]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="25963-MainThread"/>
+        <label name="host" value="itheima-2.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1560738797176" status="passed" stop="1560738813871">
+      <name>.Users.Yoson.Desktop.搜索案例.scripts.test_search.TestSearch.test_search[123]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="25963-MainThread"/>
+        <label name="host" value="itheima-2.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1560738813872" status="passed" stop="1560738832544">
+      <name>.Users.Yoson.Desktop.搜索案例.scripts.test_search.TestSearch.test_search[hello]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="25963-MainThread"/>
+        <label name="host" value="itheima-2.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
